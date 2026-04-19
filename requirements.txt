@@ -1,0 +1,6 @@
+stripe
+requests
+pandas
+openpyxl
+python-dotenv
+hubspot-api-client
